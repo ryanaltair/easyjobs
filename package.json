@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ryanaltair/easyjobs/issues"
   },
-  "homepage": "https://github.com/ryanaltair/easyjobs#readme"
+  "homepage": "https://github.com/ryanaltair/easyjobs#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socketio": "^1.0.0"
+  }
 }
