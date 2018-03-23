@@ -1,0 +1,19 @@
+{
+  "name": "easyjobs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanaltair/easyjobs.git"
+  },
+  "author": "ryanaltair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanaltair/easyjobs/issues"
+  },
+  "homepage": "https://github.com/ryanaltair/easyjobs#readme"
+}
