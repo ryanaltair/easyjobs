@@ -18,6 +18,8 @@
   "homepage": "https://github.com/ryanaltair/easyjobs#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "socketio": "^1.0.0"
+    "ip": "^1.1.5",
+    "socketio": "^1.0.0",
+    "socketio-file-upload": "^0.6.0"
   }
 }
