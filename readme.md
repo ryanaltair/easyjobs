@@ -6,6 +6,7 @@ first we will fill readme ,then make a trello clone if we get readme done,
 don't fork, it just a concept now. even the concept are WIP
 but welcome **issue** for discuss.
 NOTICE: everything changes without notice.
+it will be only master branch before we do the real works, 
 
 ## tech stack
 - json
